@@ -20,6 +20,7 @@ AIGC漫剧智能创作平台，是一款面向新艺科高校教学科研与数�
     一键漫剧合成、剪辑、高清导出
 
 实现从“剧本文件”到“成片视频”的自动化落地，极大缩短制作周期。
+
 3.  算力与资源管控模块
     内置完整的Token算力统计、积分明细、积分充值体系。支持项目级算力消耗统计、资源溯源、用量管控、成本核算。让AI创作不再盲目消耗，实现算力可量化、成本可计算、量产可管控。
 
@@ -99,7 +100,8 @@ AIGC漫剧智能创作平台，是一款面向新艺科高校教学科研与数�
 邮箱：wanglei@marspal.com
 手机（同微信）：15202218948
 
-![输入图片说明](image.png)
+<img width="832" height="518" alt="image" src="https://github.com/user-attachments/assets/7c8975cc-69e9-493c-80d1-fe32a30af5c9" />
+
 
 #### 九、官方网站
 官网：https://www.marspal.com
@@ -107,14 +109,16 @@ AIGC漫剧智能创作平台，是一款面向新艺科高校教学科研与数�
 
 
 #### 十、系统截图
-![输入图片说明](image7.png)
+<img width="1568" height="910" alt="image" src="https://github.com/user-attachments/assets/1b19929c-5e7a-4125-abcf-5d087d1401f5" />
 
-![输入图片说明](image3.png)
 
-![输入图片说明](image4.png)
+<img width="1316" height="960" alt="image" src="https://github.com/user-attachments/assets/f1975cd5-1d8f-4b69-af8f-ec6398cfd8ee" />
 
-![输入图片说明](image5.png)
+<img width="1316" height="961" alt="image" src="https://github.com/user-attachments/assets/4d0b696f-1ff0-4c8a-85b1-0e865bb4f7fc" />
 
-![输入图片说明](image6.png)
+<img width="1316" height="960" alt="image" src="https://github.com/user-attachments/assets/9e2e7b97-55b9-45cd-94fe-513ee235e6a0" />
 
-![输入图片说明](image2.png)
+<img width="1568" height="957" alt="image" src="https://github.com/user-attachments/assets/93ff6305-94b6-461c-8073-8d25f0367381" />
+
+<img width="1316" height="906" alt="image" src="https://github.com/user-attachments/assets/cc0000c6-4e52-431a-b7e8-cf65015cf859" />
+
